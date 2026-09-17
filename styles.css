@@ -1,0 +1,22 @@
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;  
+}
+
+h1 {
+  background: grey;
+  color: white;
+  text-align: center;
+}
+
+body {
+  background: #7F9C96;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+p, figcaption {
+  color: white;
+}
